@@ -57,7 +57,7 @@ exclude_patterns = []
 html_theme = 'classic'
 html_theme_options = {
     "stickysidebar"     : "true",
-    "sidebarwidth"      : "260",
+    "sidebarwidth"      : "160",
     "collapsiblesidebar": "false",
     "body_min_width"    : 0,
     "body_max_width"    : "none",
