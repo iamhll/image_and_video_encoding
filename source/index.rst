@@ -3,8 +3,8 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Reconstructed  : 2022-10-01
-   ..  Description    : description about xkcdc
+   ..  Created        : 2023-03-02
+   ..  Description    : description about image_and_video_encoding
    ..
 .. -----------------------------------------------------------------------------
 

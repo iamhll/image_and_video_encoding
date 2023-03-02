@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'xkcdc_rtl'
-copyright = '2022, llhuang'
+project = 'image_and_video_encoding'
+copyright = '2023, llhuang'
 author = 'llhuang'
 
 
