@@ -37,3 +37,7 @@ CONTENTS
    图像及视频编码 - 第19讲 - 帧内预测和变换量化之实验课(答疑)/index
    图像及视频编码 - 第20讲 - JPEG之JPEG1/index
    图像及视频编码 - 第21讲 - JPEG之其他JPEG/index
+   图像及视频编码 - 第22讲 - PNG之PNG/index
+   图像及视频编码 - 第23讲 - JPEG和PNG之实验课(实验)/index
+   图像及视频编码 - 第24讲 - JPEG和PNG之实验课(答疑)/index
+   图像及视频编码 - 第25讲 - 帧间预测之基本原理/index
