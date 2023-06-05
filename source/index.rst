@@ -52,3 +52,4 @@ CONTENTS
    图像及视频编码 - 第38讲 - 差错控制之常见方法/index
    图像及视频编码 - 附加A - C model开发/index
    图像及视频编码 - 附加B - RTL开发/index
+   图像及视频编码 - 附加C - 考纲/index
