@@ -4,11 +4,11 @@
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
    ..  Created        : 2023-05-25
-   ..  Description    : description about 第18.1讲 - C model开发
+   ..  Description    : description about 附加B - RTL开发
    ..
 .. -----------------------------------------------------------------------------
 
-第18.1讲 - C model开发
+附加B - RTL开发
 --------------------------------------------------------------------------------
 
 .. image:: 幻灯片1.PNG
